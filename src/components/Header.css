@@ -1,0 +1,9 @@
+h1{
+  width: 96%;
+  background-color: #083fb7;
+  color: white;
+  padding: 10px 23px;
+  flex-grow: 3;
+  display: flex;
+  justify-content: space-between;
+}
